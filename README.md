@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mark Talamson</h1>
 <h3 align="center">An industrious developer from Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emtee-1023&label=Profile%20views&color=0e75b6&style=flat" alt="emtee-1023" /> </p>
-
-<p align="left"> <a href="https://twitter.com/talamsonm" target="blank"><img src="https://img.shields.io/twitter/follow/talamsonm?logo=twitter&style=for-the-badge" alt="talamsonm" /></a> </p>
 
 - 🌱 I’m currently learning **React and NodeJS**
 
