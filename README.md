@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **marktalamson@gmail.com**
 
-- ⚡ Fun fact **Sometimes I work too hard 😅**
+- ⚡ Fun fact **I'm probably not asleep right now😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
