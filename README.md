@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mark Talamson</h1>
-<h3 align="center">An industrious developer from Kenya</h3>
+<h3 align="center">A Problem Solver From Kenya</h3>
 
 
-- 🌱 I’m currently learning **React and NodeJS**
+- 🌱 I’m currently learning **Laravel API**
 
 - 📫 How to reach me **marktalamson@gmail.com**
 
