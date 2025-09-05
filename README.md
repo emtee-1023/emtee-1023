@@ -2,7 +2,7 @@
 <h3 align="center">A Problem Solver From Kenya</h3>
 
 
-- 🌱 I’m currently learning **Laravel API**
+- 🌱 I’m currently learning **ASSEMBLY**
 
 - 📫 How to reach me **marktalamson@gmail.com**
 
