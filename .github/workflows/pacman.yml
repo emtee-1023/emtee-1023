@@ -22,8 +22,8 @@ jobs:
           github_user_name: emtee-1023
           outputs: |
             dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg
-            dist/pacman-contribution-graph-light.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+            dist/pacman-contribution-graph-light.svg?palette=github-light
 
       - name: Deploy to pacman-output branch
         uses: peaceiris/actions-gh-pages@v4
