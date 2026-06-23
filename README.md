@@ -26,36 +26,50 @@ I'm a software developer from Kenya passionate about building technology that so
 
 ---
 
+
 ## 🚀 Tech Stack
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### 📱 Mobile Development
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" height="60" />
+</div>
 
-### Backend Development
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+---
 
-### Machine Learning & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### 🧠 Backend Development
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,php" height="60" />
+</div>
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-316192?style=for-the-badge&logo=sqlite&logoColor=white)
+---
 
-### Embedded Systems & IoT
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
-![TTGO](https://img.shields.io/badge/TTGO-TWatch%20%26%20TBeam-black?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry%20Pi%20Pico-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=python&logoColor=white)
+### 🤖 Machine Learning & Data Science
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="60" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="60" />
+</div>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+---
+
+### 🗄️ Databases
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="60" />
+</div>
+
+---
+
+### 🔌 Embedded Systems & IoT
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,python" height="60" />
+</div>
+
+---
+
+### 🛠️ Tools & DevOps
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" height="60" />
+</div>
 
 ---
 
