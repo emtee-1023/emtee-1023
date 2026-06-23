@@ -1,8 +1,8 @@
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,50:414345,100:000000&height=230&section=header&text=MARK%20TALAMSON&fontSize=52&fontColor=00e5ff&fontAlignY=38&desc=Flutter%20•%20Laravel%20•%20Machine%20Learning%20•%20ESP32&descAlignY=60&descColor=ffffff&animation=twinkling" />
-
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emtee-1023/emtee-1023/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emtee-1023/emtee-1023/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emtee-1023/emtee-1023/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 # Hi there 👋, I'm Mark Talamson
 
