@@ -37,9 +37,15 @@ I'm a software developer from Kenya passionate about building technology that so
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-316192?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Embedded Systems
+### Embedded Systems & IoT
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+![TTGO](https://img.shields.io/badge/TTGO-TWatch%20%26%20TBeam-black?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry%20Pi%20Pico-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -88,8 +94,7 @@ A machine learning-powered Early Revenue Access platform designed for Kenya's in
 
 ## 📫 Let's Connect
 
-- LinkedIn: Your LinkedIn
-- Portfolio: Your Portfolio
-- Email: Your Email
+- LinkedIn: www.linkedin.com/in/mark-talamson-a1aab1350
+- Email: mailto:marktalamson@gmail.com
 
 > "Building technology that creates opportunities where traditional systems fall short."
