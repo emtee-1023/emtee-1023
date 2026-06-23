@@ -26,10 +26,10 @@ I'm a software developer from Kenya passionate about building technology that so
 
 ---
 
-
 ## 🚀 Tech Stack
 
 ### 📱 Mobile Development
+Flutter & Dart
 <div align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart" height="60" />
 </div>
@@ -37,6 +37,7 @@ I'm a software developer from Kenya passionate about building technology that so
 ---
 
 ### 🧠 Backend Development
+Laravel & PHP
 <div align="left">
   <img src="https://skillicons.dev/icons?i=laravel,php" height="60" />
 </div>
@@ -44,15 +45,15 @@ I'm a software developer from Kenya passionate about building technology that so
 ---
 
 ### 🤖 Machine Learning & Data Science
+Python, TensorFlow & PyTorch
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="60" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="60" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="60" />
 </div>
 
 ---
 
 ### 🗄️ Databases
+PostgreSQL, MySQL & SQLite
 <div align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="60" />
 </div>
@@ -60,6 +61,7 @@ I'm a software developer from Kenya passionate about building technology that so
 ---
 
 ### 🔌 Embedded Systems & IoT
+Arduino, Raspberry Pi & Python
 <div align="left">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,python" height="60" />
 </div>
@@ -67,11 +69,10 @@ I'm a software developer from Kenya passionate about building technology that so
 ---
 
 ### 🛠️ Tools & DevOps
+Git, GitHub, Linux, VS Code & Docker
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" height="60" />
 </div>
-
----
 
 ## 💡 Featured Project
 
