@@ -91,10 +91,9 @@ A machine learning-powered Early Revenue Access platform designed for Kenya's in
 ## 📊 GitHub Stats
 
 <p align="center">
+  ![Developer Statistics](./profile/developer-stats.svg)
   <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
 </p>
-
-![Developer Statistics](./profile/developer-stats.svg)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=emtee-1023&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity" />
