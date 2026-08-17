@@ -92,15 +92,6 @@ A machine learning-powered Early Revenue Access platform designed for Kenya's in
 
 <p align="center">
   <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
-  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="./profile/pin-stats-organization-github-readme-stats.svg" height="180" alt="Featured Repository" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emtee-1023&theme=flat&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
