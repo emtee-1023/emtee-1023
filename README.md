@@ -104,6 +104,8 @@ A machine learning-powered Early Revenue Access platform designed for Kenya's in
   <img src="https://img.shields.io/github/stars/emtee-1023?style=for-the-badge&label=TOTAL+STARS" alt="GitHub Stars" />
 </p>
 
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=emtee-1023&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity" /> </p>
+
 ---
 
 
