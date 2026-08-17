@@ -97,6 +97,8 @@ A machine learning-powered Early Revenue Access platform designed for Kenya's in
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emtee-1023&show_icons=true&locale=en" alt="emtee-1023" /></p>
 
+![Stats](./profile/stats.svg)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emtee-1023&" alt="emtee-1023" /></p>
 
 ---
