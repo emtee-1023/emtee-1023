@@ -96,6 +96,18 @@ A machine learning-powered Early Revenue Access platform designed for Kenya's in
 </p>
 
 <p align="center">
+  <img src="./profile/pin-stats-organization-github-readme-stats.svg" height="180" alt="Featured Repository" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=emtee-1023&theme=flat&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emtee-1023&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=emtee-1023&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/emtee-1023?style=for-the-badge&label=FOLLOWERS" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/emtee-1023?style=for-the-badge&label=TOTAL+STARS" alt="GitHub Stars" />
