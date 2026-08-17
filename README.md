@@ -91,12 +91,11 @@ A machine learning-powered Early Revenue Access platform designed for Kenya's in
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/developer-stats.svg" alt="Developer Statistics" />
+  <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
-  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
+  <img src="./profile/developer-stats.svg" alt="Developer Statistics" />
 </p>
 
 <p align="center">
