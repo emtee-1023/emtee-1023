@@ -23,6 +23,14 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate developer statistics
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: profile/developer-stats.svg
+          custom-title: "Mark Talamson's GitHub Statistics"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
